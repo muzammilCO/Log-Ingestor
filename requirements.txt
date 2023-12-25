@@ -1,0 +1,10 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+celery==5.2.3
+redis
+gunicorn
+SQLAlchemy
+python-dotenv
+pydantic-settings
+psycopg2
+pymongo
